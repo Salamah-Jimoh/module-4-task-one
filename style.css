@@ -1,0 +1,15 @@
+h1{
+    font-size: 18px;
+}
+.green{
+    font-size: 14px;  
+    color:green;
+}
+.red{
+    color:red;
+    font-size: 14px;
+}
+.blue{
+    color:blue;
+    font-size: 14px;
+}
